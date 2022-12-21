@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883259410908",
+    "project_id": "sentopt-430d5",
+    "storage_bucket": "sentopt-430d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883259410908:android:144dd6f1757b0f33f1e719",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883259410908-elpqbv32kindsae8hfqsrdefg3i2va5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBRBfRNUGkfsQrhyPqCdyBqqOGcFSHQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883259410908-elpqbv32kindsae8hfqsrdefg3i2va5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
